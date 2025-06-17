@@ -1,3 +1,5 @@
+/* globals.css – глобальні стилі, які застосовуються до всього застосунку */
+
 :root {
   --background: #ffffff;
   --foreground: #171717;
